@@ -1,0 +1,5 @@
+c:\users\jackli\documents\visual studio 2013\Projects\SnapShotCom+\bin\Debug\SnapShotCom+.dll
+c:\users\jackli\documents\visual studio 2013\Projects\SnapShotCom+\bin\Debug\SnapShotCom+.pdb
+c:\users\jackli\documents\visual studio 2013\Projects\SnapShotCom+\bin\Debug\SnapShotCom+.tlb
+c:\users\jackli\documents\visual studio 2013\Projects\SnapShotCom+\obj\Debug\SnapShotCom+.dll
+c:\users\jackli\documents\visual studio 2013\Projects\SnapShotCom+\obj\Debug\SnapShotCom+.pdb
